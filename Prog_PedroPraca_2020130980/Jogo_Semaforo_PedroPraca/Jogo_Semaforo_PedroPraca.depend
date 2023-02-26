@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1623921862 source:c:\prog_pedropraca_2020130980\jogo_semaforo_pedropraca\main.c
+	"utils.h"
+	"semaforo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623574986 c:\prog_pedropraca_2020130980\jogo_semaforo_pedropraca\utils.h
+
+1623919815 c:\prog_pedropraca_2020130980\jogo_semaforo_pedropraca\semaforo.h
+
+1623921485 source:c:\prog_pedropraca_2020130980\jogo_semaforo_pedropraca\semaforo.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+	"semaforo.h"
+
+1623575106 source:c:\prog_pedropraca_2020130980\jogo_semaforo_pedropraca\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
